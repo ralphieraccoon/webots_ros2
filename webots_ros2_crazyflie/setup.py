@@ -17,7 +17,7 @@ setup(
     author_email='kimberly@bitcraze.io',
     maintainer='Kimberly McGuire',
     maintainer_email='kimberly@bitcraze.io',
-    description='The Webots ROS2 package for the Crazyflie',
+    description='The Webots ROS 2 package for the Crazyflie',
     license='Apache License, Version 2.0',
     tests_require=['pytest'],
     entry_points={

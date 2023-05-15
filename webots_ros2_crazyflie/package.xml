@@ -3,7 +3,7 @@
 <package format="3">
   <name>webots_ros2_crazyflie</name>
   <version>2023.0.3</version>
-  <description>'The Webots ROS2 package for the Crazyflie'</description>
+  <description>'The Webots ROS 2 package for the Crazyflie'</description>
   <maintainer email="kimberly@bitcraze.io">Kimberly McGuire</maintainer>
   <license>Apache License 2.0</license>
   <url type="website">http://wiki.ros.org/webots_ros2</url>
